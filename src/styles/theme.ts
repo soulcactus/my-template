@@ -1,2 +1,4 @@
 // https://styled-components.com/docs/api
-export default {};
+export default {
+    color: 'blue',
+};
